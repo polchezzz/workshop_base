@@ -1,0 +1,15 @@
+13
+Table-50-5000-1
+Chair-100-1000-1
+Paper A3-1000-10-0
+Pencil-1000-10-0
+Pen-500-15-0
+Sticker-2500-5-0
+Whiteboard-30-4000-1
+Balloon-80-100-0
+Ball-100-80-1
+Toy-30-600-1
+Marker-100-40-0
+Computer-10-10000-1
+Stick-300-45-0
+Snack box-1000-100-0
