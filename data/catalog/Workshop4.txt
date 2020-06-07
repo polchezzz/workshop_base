@@ -1,0 +1,8 @@
+"A good director: the location of actors and sets on stage"
+6
+Stage-1-20000-1
+Chair-40-1000-1
+Projector-1-7000-1
+Whiteboard-1-4000-1
+Stage scenery-20-1000-1
+Stage costumes-50-3000-1

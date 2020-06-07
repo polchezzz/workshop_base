@@ -1,0 +1,8 @@
+"How to find product growth points using Job map"
+6
+Table-100-5000-1
+Water-300-50-0
+Chair-175-1000-1
+Marker-200-40-0
+Paper A3-130-10-0
+Whiteboard-1-4000-1

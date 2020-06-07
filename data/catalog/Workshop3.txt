@@ -1,0 +1,7 @@
+"How to create a successful product"
+5
+Projector-1-7000-1
+Chair-20-1000-1
+Table-14-5000-1
+Notebook-25-100-0
+Pen-30-15-0
