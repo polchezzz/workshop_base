@@ -1,0 +1,9 @@
+"How to design a yard"
+7
+Pencil-50-10-0
+Paper A3-75-10-0
+Table-53-5000-1
+Chair-80-1000-1
+Projector-1-7000-1
+Water-150-50-0
+Snack box-300-100-0
